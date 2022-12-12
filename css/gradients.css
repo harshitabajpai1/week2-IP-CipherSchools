@@ -1,0 +1,6 @@
+.box{
+    width: 100%;
+    text-align: center;
+    padding :20px;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
